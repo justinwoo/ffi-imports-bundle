@@ -1,0 +1,9 @@
+{
+  "name": "ffi-imports-bundle",
+  "set": "170818",
+  "source": "https://github.com/justinwoo/spacchetti.git",
+  "depends": [
+    "console",
+    "prelude"
+  ]
+}
